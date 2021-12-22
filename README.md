@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Elmurie's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmurie&hide=contribs,issues&count_private=true&show_icons=true)](https://github.com/elmurie/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmurie&langs_count=8)](https://github.com/elmurie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmurie&langs_count=8&layout=compact)](https://github.com/elmurie/github-readme-stats)
 
