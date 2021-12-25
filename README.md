@@ -10,7 +10,7 @@ Please be my guest and have a look around!
 You can get in touch me on LinkedIn or via e-mail: 
 ###
 <a href="https://www.linkedin.com/in/simone-morieri/"><img src="https://i.imgur.com/PhMEbqz.png" align="left" width="32"></a> 
-<a href="mailto:elmurie@gmail.com"><img src="https://i.imgur.com/rw2rM8d.png" align="left" width="32" ></a><br />
+<a href="mailto:elmurie@gmail.com"><img src="https://i.imgur.com/0klTwCT.png" align="left" width="32" ></a><br />
 <br />
 <br />
 Don't forget to be awesome :fire::fire::fire:
