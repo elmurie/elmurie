@@ -13,5 +13,5 @@ You can get in touch me on LinkedIn or via e-mail:
 <a href="mailto:elmurie@gmail.com"><img src="https://i.imgur.com/rw2rM8d.png" align="left" width="32" ></a>
 
 
-## Don't forget to be awesome 🐱‍👤🐱‍👤🐱‍👤
+## Don't forget to be awesome :fire::fire::fire:
 
