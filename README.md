@@ -1,7 +1,6 @@
 # Hi I'm Simone 👋
 
-I am a Jr. Full Stack Web Developer based in Pistoia, Italy, with a vibrant passion for technology, music and ☕.
-Please be my guest and have a look around!
+I am a Jr. Full Stack Web Developer based in Pistoia, Italy, with a vibrant passion for technology, music and ☕.\Please be my guest and have a look around!
 
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmurie&langs_count=8&layout=compact)](https://github.com/elmurie/github-readme-stats)
