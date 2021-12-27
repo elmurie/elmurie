@@ -1,6 +1,6 @@
 # Hi I'm Simone 👋
 
-I am a Jr. Full Stack Web Developer based in Pistoia, Italy, with a vibrant passion for technology, music and ☕.<br />
+I am a Jr. Full Stack Web Developer based in Pistoia, Italy, with a vibrant passion for technology :computer:, music :musical_note: and coffee :coffee:.<br />
 Please be my guest and have a look around!
 
 ###
