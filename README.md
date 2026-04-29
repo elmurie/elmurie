@@ -16,7 +16,8 @@ You can get in touch with me on LinkedIn or via e-mail:
 <a href="mailto:elmurie@gmail.com"><img src="https://i.imgur.com/0klTwCT.png" align="left" width="32" ></a><br />
 <br />
 <br />
-I am very proud of my latest Weather App project, so please make sure you <a href="https://github.com/elmurie/weatherapp">check it out </a>!
+
+I publish sports analytics notebooks from time to time, so please make sure you check my <a href="https://www.linkedin.com/in/simone-morieri/">Linkedin Profile</a>!
 
 Don't forget to be awesome :fire::fire::fire:
 
