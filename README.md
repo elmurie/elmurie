@@ -4,10 +4,8 @@ I am a Data Analyst and a Full Stack Web Developer based in Pistoia, Italy, with
 Please be my guest and have a look around!
 
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmurie&langs_count=8&layout=compact)](https://github.com/elmurie/github-readme-stats)]
-
-###
-<a href="https://morieri.netlify.app/"><strong>Portfolio</strong></a>
+<a href="https://portfolio.morieri.me/"><strong>Data Analytics Portfolio</strong></a>
+<a href="https://morieri.me/"><strong>Portfolio</strong></a>
 ###
 ###
 You can get in touch with me on LinkedIn or via e-mail: 
